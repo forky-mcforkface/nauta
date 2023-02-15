@@ -29,4 +29,4 @@ tensorflow-estimator==1.15.1
 termcolor==1.1.0
 typing==3.6.6
 typing-extensions==3.7.2
-Werkzeug==0.15.1
+Werkzeug==2.2.3
